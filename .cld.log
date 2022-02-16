@@ -1,0 +1,18 @@
+{"level":"info","time":"2022-02-16T11:20:48Z","message":"Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps"}
+{"level":"info","time":"2022-02-16T11:20:48Z","message":"Requesting new quick Tunnel on trycloudflare.com..."}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"|  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"|  https://cas-sauce-pierce-viking.trycloudflare.com                                         |"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"Version 2022.2.0"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"GOOS: linux, GOVersion: go1.17.5, GoArch: amd64"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"Settings: map[logfile:.cld.log protocol:quic url:127.0.0.1:8080]"}
+{"level":"info","autoupdateFreq":86400000,"time":"2022-02-16T11:20:53Z","message":"Autoupdate frequency is set"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"Generated Connector ID: 6244d1b0-f632-4dda-88cf-168a56c34e31"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"Initial protocol quic"}
+{"level":"info","time":"2022-02-16T11:20:53Z","message":"Starting metrics server on 127.0.0.1:36075/metrics"}
+{"level":"info","connIndex":0,"location":"MRS","time":"2022-02-16T11:20:54Z","message":"Connection 4ef6c72d-70eb-440b-aec5-08816d6e1ab3 registered"}
+{"level":"info","connIndex":1,"location":"EWR","time":"2022-02-16T11:20:55Z","message":"Connection a251315a-0de1-4cb6-84ff-d66b00646606 registered"}
+{"level":"info","connIndex":2,"location":"MRS","time":"2022-02-16T11:20:57Z","message":"Connection d99ec344-ace1-4e38-ba92-f674ede1d17b registered"}
+{"level":"info","connIndex":3,"location":"EWR","time":"2022-02-16T11:20:57Z","message":"Connection 7a960b2d-5a94-47aa-9607-713160458a72 registered"}
