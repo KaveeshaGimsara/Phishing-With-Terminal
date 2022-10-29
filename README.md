@@ -1,3 +1,1 @@
-# SocailpishingAtk
-
-පකද බලන්නේ
+# SocailpishingA
